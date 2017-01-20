@@ -5,7 +5,6 @@ Alternative learning assesment for IS 225.
 * Choose only 10 screens from the UI wireframe template below(except the blank screen) and add your graphic elements to complete the design.
 * You are allowed to use Adobe Photoshop, Illustrator or other graphic editing tools.
 * You are also free to use existing UI kits to this project.
-* Each screen is worth 10 points.
 
 ### Submission
 * Output deadline is on or before **February 3, 2017**.
