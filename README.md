@@ -28,4 +28,6 @@ Alternative learning assesment for IS 225.
 * [Behance](https://www.behance.net/collection/19367299/Free-UI-Kits) free UI kits.
 * [Facebook](http://facebook.design/toolsandresources/) UI design and prototyping resources.
 
+<hr>
+### Screen Guide
 ![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/disp/c831d512466729.5626a054b05d4.png "UI Kit from OmniGraffle")
